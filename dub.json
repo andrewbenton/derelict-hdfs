@@ -1,0 +1,13 @@
+{
+    "name": "derelict-hdfs",
+    "authors": [
+        "Andrew Benton"
+    ],
+    "dependencies": {
+        "derelict-util": "~>2.1.0"
+    },
+    "description": "Derelict binding for HDFS",
+    "homepage": "https://github.com/andrewbenton/derelict-hdfs",
+    "copyright": "Copyright © 2016, Andrew Benton",
+    "license": "ASL-2.0"
+}
